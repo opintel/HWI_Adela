@@ -4,8 +4,8 @@ El repositorio consta de dos herramientas que fueron desarrolladas para vivir de
 
 **Ejemplo:** El archivo `Entregable_14/config/intializers/opi_dashboards.rb` debe ser copiado en **Adela** dentro de `/config/intializers/`.
 
-##Entregable 7: 
-HERRAMIENTA WEB INTERACTIVA QUE PERMITA REGISTRAR EL AVANCE EN EL PROCESO DE IMPLEMENTACIÓN DE MEJORAS EN MATERIA DE PROTOCOLOS, TECNOLOGÍAS Y METODOLOGÍAS
+##Entregable 7:
+Herramienta web interactiva que permita registrar el avance en el proceso de implementación de mejoras en materia de protocolos, tecnologías y metodologías.
 
 ##Entregable 14: 
-HERRAMIENTA WEB INTERACTIVA QUE PERMITA A LAS DEPENDENCIAS Y ENTIDADES DE LA APF DAR SEGUIMIENTO PERSONALIZADO A SUS AVANCES EN EL CUMPLIMIENTO DE CADA UNA DE LAS ETAPAS Y ACCIONES NECESARIAS PARA CUMPLIR CON LA GUÍA GENERAL Y LAS 15 GUÍAS ESPECÍFICAS, ASÍ COMO CONOCER EL USO DE LOS CONJUNTOS DE DATOS PUBLICADOS POR CADA INSTITUCIÓN.
+Herramienta web interactiva que permita a las dependencias y entidades de la **APF** dar seguimiento personalizado a sus avances en el cumplimiento de cada una de las etapas y acciones necesarias para cumplir con la guía general y las 15 guías específicas, así como conocer el uso de los conjuntos de datos publicados por cada institución.
